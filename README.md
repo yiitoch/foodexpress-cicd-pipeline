@@ -42,7 +42,7 @@ Base URL: `http://<EC2_PUBLIC_IP>:3000`
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/foodexpress-cicd-pipeline.git
+git clone https://github.com/yiitoch/foodexpress-cicd-pipeline.git
 cd foodexpress-cicd-pipeline
 npm install
 node index.js
